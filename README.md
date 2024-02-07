@@ -6,7 +6,7 @@ I graduated with a master's degree in Software Engineering. Over the last four y
 <div align="center">
   <img src="https://github.com/SaraBolouriB/SaraBolouriBazaz/blob/main/Software%20Developersoftware.gif"  wwidth="800" height="400"/>
 </div>
-<br />
+
 - :pencil2: I am currently learning the React framework.
 - :computer: I am looking for a position as a **software developer/software engineer**.
 - :mailbox: How to reach me: [Email](boloorisara@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sara-bolouri-bazaz/)
