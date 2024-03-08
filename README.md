@@ -8,7 +8,6 @@ I graduated with a post-secondary degree in Software Engineering. Over the last 
 </div>
 
 - :woman_office_worker: I am presently working as a Developer Advisor at [ICP.HUB North America](https://icpnorthamerica.org/)
-- :pencil2: I am currently learning the React framework.
 - :computer: I am looking for a position as a **software developer/software engineer**.
 - :mailbox: How to reach me: [Email](boloorisara@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sara-bolouri-bazaz/)
 
