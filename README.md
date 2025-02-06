@@ -7,7 +7,7 @@ I graduated with a post-secondary degree in Software Engineering. Over the last 
   <img src="https://github.com/SaraBolouriB/SaraBolouriBazaz/blob/main/Software%20Developersoftware.gif"  wwidth="800" height="250"/>
 </div>
 
-- :woman_office_worker: I am presently working as a Web Developer at [DiamondAI](https://diamondai.ca/)
+- :woman_office_worker: I am presently working as a Web Developer at [Visual Miner Inc.](https://diamondai.ca/)
 - :computer: I am seeking a position as a **software developer/software engineer**.
 - :mailbox: How to reach me: [Email](boloorisara@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sara-bolouri-bazaz/)
 
